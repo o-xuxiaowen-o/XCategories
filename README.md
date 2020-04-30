@@ -22,8 +22,9 @@ pod 'XCategories'
 
 ## Author
 
-972510000@qq.com, o-xuxiaowen-o@qq.com
+o-xuxiaowen-o, o-xuxiaowen-o@qq.com
 
 ## License
 
 XCategories is available under the MIT license. See the LICENSE file for more info.
+想要一个高大上的描述避开自动化的警告
