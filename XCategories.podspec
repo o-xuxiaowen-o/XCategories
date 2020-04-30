@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'XCategories'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of XCategories.'
+  s.version          = '1.0.0'
+  s.summary          = '想要一个高大上描述避开警告'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,20 +17,19 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = '想要一个高大上的描述避开警告吖'
 
-  s.homepage         = 'https://github.com/972510000@qq.com/XCategories'
+
+  s.homepage         = 'https://github.com/o-xuxiaowen-o/XCategories'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { '972510000@qq.com' => 'o-xuxiaowen-o@qq.com' }
-  s.source           = { :git => 'https://github.com/972510000@qq.com/XCategories.git', :tag => s.version.to_s }
+  s.author           = { 'o-xuxiaowen-o' => 'o-xuxiaowen-o@qq.com' }
+  s.source           = { :git => 'https://github.com/o-xuxiaowen-o/XCategories.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'XCategories/Classes/**/*'
+  s.source_files = 'XCategories/Classes/*'
   
   # s.resource_bundles = {
   #   'XCategories' => ['XCategories/Assets/*.png']
